@@ -1,2 +1,1 @@
-# Connect
-# Connect_4
+# rspec_connect4
