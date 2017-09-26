@@ -25,3 +25,4 @@ loop do
 	board.drop_disc(gets.chomp.to_i,player2.disc)
     break if board.win_vertical == true or board.win_horizontal == true or board.win_diagnal_lr == true or board.win_diagnal_rl == true
 end 
+#

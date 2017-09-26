@@ -5,7 +5,7 @@ class Board
   end 
 
   def display
-      print "   0     1     2     3     4     5     6"
+    print "   0     1     2     3     4     5     6"
     @board.each do |i|
         print "\n"
         @draw = "+-----+-----+-----+-----+-----+-----+-----+"
